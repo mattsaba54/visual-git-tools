@@ -1,0 +1,9 @@
+Branch: visual-tools
+
+Commit 1:
+4465a3f - Create checkout.py
+
+Commit 2:
+56e452d - Add checkout calculation documentation
+
+These commits show the changes I made on the visual-tools branch. The first commit created the checkout.py file, and the second commit added documentation explaining what the checkout calculation does.
