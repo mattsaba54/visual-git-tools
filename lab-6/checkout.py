@@ -1,3 +1,4 @@
+Calculates the total price based on price and quantity
 def calculate_total(price, quantity):
     total = price * quantity
     return total
