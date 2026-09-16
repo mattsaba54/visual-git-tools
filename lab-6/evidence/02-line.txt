@@ -1,0 +1,14 @@
+Line under investigation:
+return total
+
+Commit ID:
+9779a3d
+
+Author:
+Matt Sabadac
+
+Commit message:
+Update checkout.py
+
+Interpretation:
+This commit last changed the return line in checkout.py. The previous version returned total + 5, which added an extra $5 to the calculated total. The commit changed the line back to return total, which fixes the unexpected result and makes the function return the correct checkout calculation.
