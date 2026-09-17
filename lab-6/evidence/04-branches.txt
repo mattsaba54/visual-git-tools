@@ -1,0 +1,29 @@
+Task 4 - Publish, Merge, and Synchronize
+
+Branch before merge:
+visual-tools
+
+Branch after merge:
+main
+
+Remote update:
+I made a small change to README.md directly on GitHub and committed it to the main branch with the commit message "Update README directly on GitHub."
+
+Synchronization:
+After making the remote change, I returned to GitHub Desktop on the main branch. I used Fetch origin to check for changes on the remote repository and Pull origin to bring the new GitHub commit into my local repository.
+
+Git concepts:
+Current branch shows which branch I am currently working on.
+
+Publish branch sends a local branch to the remote GitHub repository for the first time.
+
+Fetch checks the remote repository for new commits without immediately changing my local files.
+
+Pull brings the remote commits into my local branch.
+
+Merge combines changes and commit history from one branch into another branch.
+
+Push sends my local commits to the remote GitHub repository.
+
+Final state:
+The visual-tools work was merged into main, and the README change made directly on GitHub was pulled into my local main branch. GitHub Desktop showed 0 changed files and no local changes, confirming that the working tree was clean and the repository was synchronized.
