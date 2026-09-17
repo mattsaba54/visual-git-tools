@@ -1,0 +1,25 @@
+Task 5 - Resolve a Visual Merge Conflict
+
+Conflicting lines:
+Main branch:
+Main review note.
+
+visual-tools branch:
+Feature review note.
+
+Final resolved content:
+Main review note.
+Feature review note.
+
+Merge commit message:
+Merge branch 'visual-tools'
+
+Explanation:
+A merge conflict happened because the main and visual-tools branches changed the same location in README.md differently. Git could not automatically decide which version should be kept.
+
+I resolved the conflict in Visual Studio Code by keeping both intended changes. After resolving the conflict, I continued the merge in GitHub Desktop, which created the merge commit. I then pushed the updated main branch to GitHub.
+
+The final README.md contains both "Main review note." and "Feature review note." The repository was synchronized with GitHub and had no uncommitted changes after the merge.
+
+Screenshot:
+See the Task 5 conflict-resolution screenshot in the screenshots folder.
