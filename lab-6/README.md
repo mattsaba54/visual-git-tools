@@ -4,3 +4,4 @@ In this lab, I will practice using visual Git tools to work with a repository. I
 
 The goal of this lab is to become more comfortable using a visual Git interface and understand how the actions in GitHub Desktop relate to Git commands. This repository is being used to practice Git workflows with GitHub Desktop. 
 This README was updated directly on GitHub to practice pulling remote changes into the local repository.
+Main review note.
