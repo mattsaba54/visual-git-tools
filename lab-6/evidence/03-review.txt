@@ -1,0 +1,20 @@
+Task 3 - Review Before Committing
+
+Commit 1:
+Update checkout.py
+
+File included:
+checkout.py
+
+This commit changed the checkout calculation code and kept that change separate from the unrelated README change.
+
+Commit 2:
+Update README.md
+
+File included:
+README.md
+
+This commit updated the README to explain that the repository is being used to practice Git workflows with GitHub Desktop.
+
+Explanation:
+I reviewed the changes in GitHub Desktop before committing them. The checkout.py change and README.md change were unrelated, so keeping them in separate commits made each commit easier to understand and review. Separating unrelated changes also makes it safer to undo one change later without affecting the other.
